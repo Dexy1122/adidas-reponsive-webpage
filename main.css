@@ -258,7 +258,7 @@ nav ul li{
         height: 100vh;
         background-color: #f7f7f6;
         justify-content: space-evenly;
-        transform: translateX(-35rem);
+        transform: translateX(-25rem);
         transition: transform .5s;
     }
 
@@ -296,7 +296,7 @@ nav ul li{
     }
 
     .active{
-        transform: translateX(2);
+        transform: translateX(0);
     }
 
     .overlay{

@@ -1,5 +1,5 @@
 $(function() {
-$('.menu-toogle, .fa-times').on('click', function() {
+$('.menu-toogle,  .fa-times').on('click', function() {
 $('nav').toggleClass('active');
 $('.overlay').toggleClass('menu-open');
 });
